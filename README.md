@@ -66,9 +66,7 @@ Close
 Uninstall
 Update
 Block
-  
 [Open Client Folder]  
-
 ![xhvnc](https://github.com/De-eloper/Image-Storage/raw/main/xhvnc.PNG)  
 [HVNC]  
 [Recovery]  
